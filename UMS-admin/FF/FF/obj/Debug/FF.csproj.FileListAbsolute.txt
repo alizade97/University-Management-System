@@ -1,0 +1,64 @@
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\FF.exe.config
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\FF.exe
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\FF.pdb
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\MySqlConnector.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\System.Buffers.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\System.Memory.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\MySqlConnector.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\System.Buffers.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\System.Memory.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.csprojAssemblyReference.cache
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.Form1.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.Properties.Resources.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.csproj.GenerateResource.cache
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.csproj.CopyComplete
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.exe
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.pdb
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.Form2.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.UserControl1.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.UserControl2.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.UserControl3.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.UserControl4.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.user.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.division.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.department.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.course.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\MPL2-FF\FF\FF\obj\Debug\FF.classcontrol1.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\FF.exe.config
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\FF.exe
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\FF.pdb
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\MySqlConnector.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\System.Buffers.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\System.Memory.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\MySqlConnector.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\System.Buffers.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\System.Memory.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.csprojAssemblyReference.cache
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.classcontrol1.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.course.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.department.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.division.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.Form1.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.Form2.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.Properties.Resources.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.user.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.UserControl1.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.UserControl2.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.UserControl3.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.UserControl4.resources
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.csproj.GenerateResource.cache
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.csproj.CopyComplete
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.exe
+C:\Users\Mushvig Alizade.DESKTOP-351901V\Desktop\4 year\MPL 2 - FF\UMS-admin\FF\FF\obj\Debug\FF.pdb
